@@ -1,0 +1,6 @@
+/** &lt;examples&gt;
+?- n_queens(8, Qs), labeling([ff], Qs).
+?- n_queens(24, Qs), labeling([ff], Qs).
+?- n_queens(100, Qs), labeling([ff], Qs).
+
+*/
